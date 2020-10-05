@@ -27,8 +27,8 @@ Activate Anti-spam protection in your BM by this command :
 /antispam on 
 Made from the source code of @sixteenbit1.
 Special thanks to @sixteenbit1 for helping me.
-Deploy a bot like me [now](www.github.com/xditya/GroupManager)
-Watch [video tutorial](https://www.youtube.com/watch?v=gXXFpTAk6Vo&feature=youtu.be) on deploying me.
+Deploy a bot like me [now](https://github.com/shlok2121/GroupManager)
+
 Click /help or Help button below to find out more about how to use me to my full potential.
  Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
 """
