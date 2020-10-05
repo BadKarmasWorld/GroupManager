@@ -23,14 +23,13 @@ from haruka.modules.connection import connected
 PM_START = """Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
-
 I'm group manager bot and Anti-spam for RR Players🃏
-
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
-
-My owner is @sixteenbit1
-
+Made from the source code of @sixteenbit1
+Special thanks to [this person](t.me/denver02) for helping me.
+Click /help or Help button below to find out more about how to use me to my full potential.
+"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -649,4 +648,8 @@ def process_update(self, update):
         except Exception:
             self.logger.exception('An uncaught error was raised while processing the update')
 
+ if __name__ == '__main__':
+    LOGGER.info("Successfully loaded modules: " + str(ALL_MODULES))
+    LOGGER.info("Successfully loaded")
+    main()
     
