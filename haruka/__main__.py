@@ -22,15 +22,15 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 You know how hard it is sometimes to manage group so here is the solution for you
-I'm group manager bot and Anti-spam for RR Players🃏
-Activate Anti-spam protection in your BM by this command : 
+I'm group manager and Anti-Spam Bot 
+Activate Anti-spam protection in your chat by this command : 
 /antispam on 
-Made from the source code of @sixteenbit1.
-Special thanks to @sixteenbit1 for helping me.
-Deploy a bot like me [now](https://github.com/shlok2121/GroupManager)
+Made by @xsixteenbit.
+This bot is only made for Tech World ❤️️
+
 
 Click /help or Help button below to find out more about how to use me to my full potential.
- Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
+
 """
 
 
