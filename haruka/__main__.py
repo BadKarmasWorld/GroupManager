@@ -21,15 +21,10 @@ from haruka.modules.translations.strings import tld, tld_help
 from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
-You know how hard it is sometimes to manage group so here is the solution for you
-I'm group manager and Anti-Spam Bot 
-Activate Anti-spam protection in your chat by this command : 
-/antispam on 
-Made by @xsixteenbit.
-This bot is only made for Tech World ❤️️
-
-
-Click /help or Help button below to find out more about how to use me to my full potential.
+Hi {}, my name is {}! If you have any questions on how to use me, read /help 
+I'm a group manager bot built in python3, using the python-telegram-bot library,
+You can find the list of available commands with /help.
+If you're enjoying using me, and/or would like to help me survive in the wild, you can donate me via [PayPal](paypal.me/sixteenbit11)
 
 """
 
